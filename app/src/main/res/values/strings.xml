@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">uiTest</string>
+    <string name="notification">notification</string>
+    <string name="hallo_samuel">Hallo, Samuel!</string>
+    <string name="profile_photo">profile photo</string>
+    <string name="_1600_points">+1600 Points</string>
+    <string name="points">points</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="course_of_this_week">course of this week</string>
+</resources>
